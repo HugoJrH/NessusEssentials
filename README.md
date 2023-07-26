@@ -62,3 +62,35 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 </p>
 
 ![Turn off file wall on VM](https://github.com/HugoJrH/HugoJrH/assets/126385725/beb4d3ff-1a7b-4160-a8ee-ad5a40baa20e)
+
+<br />
+<br />
+<p align="center">
+<b>After Nessus has downloaded, you want to create a new scan, then select 'Basic Network Scan'. </b> <br/>
+</p>
+
+![new scan](https://github.com/HugoJrH/HugoJrH/assets/126385725/f8e3c361-f3a0-4598-9f02-e64b8c15cf53)
+
+![basic network scan](https://github.com/HugoJrH/HugoJrH/assets/126385725/c0127118-38fc-4730-8ea8-69ce659ee31c)
+
+
+<br />
+<br />
+<p align="center">
+<b>After naming the scan, I also put the targeted VM's IP: 192.168.0.144 to be the target for this scan.</b> <br/>
+</p>
+
+![Name the scan and set the target ips](https://github.com/HugoJrH/HugoJrH/assets/126385725/f830e35d-c4e7-483f-86f5-e95908532821)
+
+<br />
+<br />
+<p align="center">
+<b>I then lauch the scan by clicking the grey check mark and it's mow scanning for vulnerabilities. When the grey check mark appears the scan has now been completed.</b> <br/>
+</p>
+
+https://github.com/HugoJrH/HugoJrH/assets/126385725/a6a1f47f-6e13-4df2-96e7-ddda320b534b
+
+![completed scan](https://github.com/HugoJrH/HugoJrH/assets/126385725/9f20bc93-e8b2-4936-9de2-ccb7ad7b1213)
+
+
+
